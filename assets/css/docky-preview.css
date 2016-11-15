@@ -1,0 +1,27 @@
+/* docky preview less styling by PrettyMinimal */
+/* https://twitter.com/antraxis */
+/* visit www.prettyminimal.com for more resources */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.docky-preview-grid {
+  margin-bottom: 20px;
+}
+.docky-preview-grid > .row {
+  margin-top: 10px;
+  background-color: rgba(85, 60, 125, 0.15);
+}
+.docky-preview-grid > .row > div {
+  border: solid 1px #ccc;
+  text-align: center;
+}
+.docky-preview-icons > .row {
+  margin-top: 10px;
+}
+.docky-preview-icons > .row > div {
+  text-align: center;
+  font-size: 28px;
+  padding: 10px;
+}
