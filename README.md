@@ -1,10 +1,10 @@
 # Docky
 Template for project documentations.
 
-Author: Dariusz Sikorski
+Author: Dariusz Sikorski www.dariuszsikorski.pl
 
-Website:
-http://prettyminimal.com/projects/docky/1.0/lemon.html
-www.dariuszsikorski.pl
+Demo: http://prettyminimal.com/projects/docky/1.0/lemon.html
 
-License: MIT, see LICENSE.md
+Documentation: http://prettyminimal.com/projects/docky/1.0
+
+License: MIT, see LICENSE
